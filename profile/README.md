@@ -9,7 +9,7 @@ This account exists only to manage, access, or collaborate on repositories relat
 
 For my active, personal, and up-to-date work, please visit my main GitHub profile:
 
-🔗 **Primary GitHub:** https://github.com/abhinandanmishra1
+🔗 **Primary GitHub:** [abhinandanmishra1](https://github.com/abhinandanmishra1)
 
 ## About Me
 
